@@ -1,5 +1,5 @@
 FROM python:3.6-alpine
-LABEL maintainer="Ulrich MONJI de Eazytraining"
+LABEL maintainer="moon nirou sama"
 WORKDIR /opt 
 COPY . /opt
 RUN pip install flask==1.1.2
